@@ -2,7 +2,7 @@ package lang.print.gaps.finalModuleTask;
 
 public class DivisionByZero {
     public static void main(String[] args) {
-        _ number = 10;
+        float number = 10F;
         System.out.println(number/0);
     }
 }
